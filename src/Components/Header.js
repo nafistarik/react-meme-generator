@@ -8,8 +8,7 @@ export default function Header() {
                 className="header--image" 
                 alt="Troll-face"
             />
-            <h2 className="header--title">Meme Generator</h2>
-            <h4 className="header--project">Connect your text to a meme image.</h4>
+            <h4 className="header--project">Link your words to a visual</h4>
         </header>
     )
 }

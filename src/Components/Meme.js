@@ -55,7 +55,7 @@ export default function Meme() {
                     className="form--button"
                     onClick={getMemeImage}
                 >
-                    Get a new meme image 🖼
+                    Find Another Image
                 </button>
             </div>
             <div className="meme">
